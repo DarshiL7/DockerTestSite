@@ -18,7 +18,6 @@ jobs:
       run: docker build -t dotnetcore . --file Dockerfile --tag my-image-name:$(date +%s)
     - name: current image list
       run: docker image ls
-    - name: docker login
     - uses: docker/login-action@v1
       with:
         registry: rxarchregistery.azurecr.io
