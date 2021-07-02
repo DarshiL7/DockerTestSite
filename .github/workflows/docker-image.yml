@@ -18,3 +18,13 @@ jobs:
       run: docker build -t dotnetcore . --file Dockerfile --tag my-image-name:$(date +%s)
     - name: current image list
       run: docker image ls
+    - name: docker login
+    - uses: docker/login-action@v1
+      with:
+        registry: rxarchregistery.azurecr.io
+        username: rxarchregistery
+        password: 5Rx9PgDDIOhEKqEofaGZe16NT+WbIkiM
+    - name: docker tag command
+      run: docker tag dotnetcore rxarchregistery.azurecr.io/cleanarc/sample
+    - name: docker push command
+      run: docker push rxarchregistery.azurecr.io/cleanarc/sample
