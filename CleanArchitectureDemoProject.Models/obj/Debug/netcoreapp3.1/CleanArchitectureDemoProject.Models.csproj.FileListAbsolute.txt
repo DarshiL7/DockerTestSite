@@ -1,9 +1,0 @@
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.deps.json
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.dll
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.pdb
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.csproj.AssemblyReference.cache
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.AssemblyInfoInputs.cache
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.AssemblyInfo.cs
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.csproj.CoreCompileInputs.cache
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.dll
-D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.Models\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.pdb
