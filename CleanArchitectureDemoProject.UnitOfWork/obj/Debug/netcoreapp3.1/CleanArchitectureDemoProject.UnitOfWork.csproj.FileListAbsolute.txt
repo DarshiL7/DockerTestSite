@@ -1,0 +1,14 @@
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.deps.json
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.dll
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.pdb
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.BoundedContext.dll
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.dll
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.BoundedContext.pdb
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\bin\Debug\netcoreapp3.1\CleanArchitectureDemoProject.Models.pdb
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.csproj.AssemblyReference.cache
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.AssemblyInfoInputs.cache
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.AssemblyInfo.cs
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.csproj.CopyComplete
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.dll
+D:\Devops\Asp.Net Core Projects\CleanArcDemoProj\CleanArchitectureDemoProject\CleanArchitectureDemoProject.UnitOfWork\obj\Debug\netcoreapp3.1\CleanArchitectureDemoProject.UnitOfWork.pdb
